@@ -1,0 +1,5 @@
+{
+    "lab_validation": {
+        "description": "validate if accessions provided in the submission match our approved lab list. Return all lab accessions that did not match the list."
+    }
+}
